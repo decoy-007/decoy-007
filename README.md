@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thabiso
-- 👀 I’m interested in ...Gaming and Coding
+- 👀 I’m interested in ...Gaming, Coding and Analytics
 - 🌱 I’m currently learning ...Python#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...thabisotk7@gmail.com
