@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...thabisotk7@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...You can see stars as they were 4,000 years ago with the naked eye
-
+- ⚡ Fun fact: ..."Technically, you can see the past when you look at the stars".
 <!---
 decoy-007/decoy-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
